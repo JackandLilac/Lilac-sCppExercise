@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/Lilac/CLionProjects/CppExercise0828
+CMAKE_SOURCE_DIR = /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/Lilac/CLionProjects/CppExercise0828/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/CppExercise0828.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/CppExercise0828.dir/flags.make
 
 CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.o: CMakeFiles/CppExercise0828.dir/flags.make
 CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.o: ../CppFolder/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.o -c /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.o"
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.o -c /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/main.cpp
 
 CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/main.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.i
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/main.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.i
 
 CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/main.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.s
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/main.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.s
 
 CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/CppExercise0828.dir/CppFolder/main.cpp.o.provides.build: CMakeFiles/C
 
 CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.o: CMakeFiles/CppExercise0828.dir/flags.make
 CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.o: ../CppFolder/functiontest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.o -c /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/functiontest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.o"
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.o -c /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/functiontest.cpp
 
 CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/functiontest.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.i
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/functiontest.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.i
 
 CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/functiontest.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.s
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/functiontest.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.s
 
 CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/CppExercise0828.dir/CppFolder/functiontest.cpp.o.provides.build: CMak
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.o: CMakeFiles/CppExercise0828.dir/flags.make
 CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.o: ../CppFolder/Line.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.o -c /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/Line.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.o"
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.o -c /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/Line.cpp
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/Line.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.i
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/Line.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.i
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/Line.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.s
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/Line.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.s
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/CppExercise0828.dir/CppFolder/Line.cpp.o.provides.build: CMakeFiles/C
 
 CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.o: CMakeFiles/CppExercise0828.dir/flags.make
 CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.o: ../CppFolder/exerciseList.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.o -c /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/exerciseList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.o"
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.o -c /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/exerciseList.cpp
 
 CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/exerciseList.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.i
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/exerciseList.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.i
 
 CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/exerciseList.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.s
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/exerciseList.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.s
 
 CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/CppExercise0828.dir/CppFolder/exerciseList.cpp.o.provides.build: CMak
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.o: CMakeFiles/CppExercise0828.dir/flags.make
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.o: ../CppFolder/Chapter2/Chapter2_5.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.o -c /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2_5.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.o"
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.o -c /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2_5.cpp
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2_5.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.i
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2_5.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.i
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2_5.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.s
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2_5.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.s
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_5.cpp.o.provides.buil
 
 CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.o: CMakeFiles/CppExercise0828.dir/flags.make
 CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.o: ../CppFolder/NetworkLearning/MemberAccessOperator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.o -c /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/NetworkLearning/MemberAccessOperator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.o"
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.o -c /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/NetworkLearning/MemberAccessOperator.cpp
 
 CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/NetworkLearning/MemberAccessOperator.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.i
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/NetworkLearning/MemberAccessOperator.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.i
 
 CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/NetworkLearning/MemberAccessOperator.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.s
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/NetworkLearning/MemberAccessOperator.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.s
 
 CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cpp.o.requires:
 
@@ -203,16 +203,16 @@ CMakeFiles/CppExercise0828.dir/CppFolder/NetworkLearning/MemberAccessOperator.cp
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.o: CMakeFiles/CppExercise0828.dir/flags.make
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.o: ../CppFolder/Chapter2/Chapter2_7.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.o -c /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2_7.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.o"
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.o -c /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2_7.cpp
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2_7.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.i
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2_7.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.i
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2_7.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.s
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2_7.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.s
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.o.requires:
 
@@ -227,16 +227,16 @@ CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cpp.o.provides.buil
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.o: CMakeFiles/CppExercise0828.dir/flags.make
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.o: ../CppFolder/Chapter2/Chapter2Exer2_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.o -c /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2Exer2_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.o"
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.o -c /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2Exer2_2.cpp
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2Exer2_2.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.i
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2Exer2_2.cpp > CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.i
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2Exer2_2.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.s
+	/usr/local/Cellar/gcc@6/6.4.0_2/bin/g++-6 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/CppFolder/Chapter2/Chapter2Exer2_2.cpp -o CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.s
 
 CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.o.requires:
 
@@ -273,7 +273,7 @@ CppExercise0828: CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2_7.cp
 CppExercise0828: CMakeFiles/CppExercise0828.dir/CppFolder/Chapter2/Chapter2Exer2_2.cpp.o
 CppExercise0828: CMakeFiles/CppExercise0828.dir/build.make
 CppExercise0828: CMakeFiles/CppExercise0828.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Lilac/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable CppExercise0828"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable CppExercise0828"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CppExercise0828.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -297,6 +297,6 @@ CMakeFiles/CppExercise0828.dir/clean:
 .PHONY : CMakeFiles/CppExercise0828.dir/clean
 
 CMakeFiles/CppExercise0828.dir/depend:
-	cd /Users/Lilac/CLionProjects/CppExercise0828/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/Lilac/CLionProjects/CppExercise0828 /Users/Lilac/CLionProjects/CppExercise0828 /Users/Lilac/CLionProjects/CppExercise0828/cmake-build-debug /Users/Lilac/CLionProjects/CppExercise0828/cmake-build-debug /Users/Lilac/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles/CppExercise0828.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828 /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828 /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/cmake-build-debug /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/cmake-build-debug /Users/Lilac/Code/CppCode/CLionProjects/CppExercise0828/cmake-build-debug/CMakeFiles/CppExercise0828.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/CppExercise0828.dir/depend
 

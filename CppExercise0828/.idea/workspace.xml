@@ -23,112 +23,36 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CppFolder/main.cpp">
+      <file leaf-file-name="Chapter2Exer2_6.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2/Chapter2Exer2_6.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+            <state relative-caret-position="-169">
+              <caret line="33" selection-start-line="19" selection-end-line="33" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#20#0" expanded="true" />
+                <element signature="e#297#310#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chapter2Exer2_2.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2/Chapter2Exer2_2.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-              <folding>
-                <element signature="e#79#107#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="string" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/string">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="3490" column="43" selection-start-line="3490" selection-start-column="43" selection-end-line="3490" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chapter2Exer2_2.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2/Chapter2Exer2_2.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-              <folding>
-                <element signature="e#224#241#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MemberAccessOperator.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CppFolder/NetworkLearning/MemberAccessOperator.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-              <folding>
-                <element signature="e#79#98#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chapter2_7.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2/Chapter2_7.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="894">
-              <caret line="45" column="28" selection-start-line="45" selection-end-line="45" selection-end-column="28" />
-              <folding>
-                <element signature="e#79#102#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chapter2_7.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2/Chapter2_7.h">
+      <file leaf-file-name="Pointer.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CppFolder/NetworkLearning/Pointer.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MemberAccessOperator.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CppFolder/NetworkLearning/MemberAccessOperator.h">
+      <file leaf-file-name="Chapter3_2.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CppFolder/Chapter3/Chapter3_2.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chapter2_5.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2/Chapter2_5.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="57" column="23" lean-forward="true" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+            <state relative-caret-position="513">
+              <caret line="28" column="3" selection-start-line="24" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
               <folding>
-                <element signature="e#79#102#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chapter2_5.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2/Chapter2_5.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-              <folding>
-                <element signature="e#193#212#0" expanded="true" />
+                <element signature="e#101#118#0" expanded="true" />
+                <element signature="e#152#171#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -170,6 +94,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+  <component name="OCFindUsagesOptions" text="false" ivars="false" properties="false" derivedClasses="false" />
   <component name="ProjectFrameBounds">
     <option name="x" value="38" />
     <option name="y" value="23" />
@@ -197,7 +122,7 @@
               <item name="CppExercise0828" type="b2602c69:ProjectViewProjectNode" />
               <item name="CppExercise0828" type="462c0819:PsiDirectoryNode" />
               <item name="CppFolder" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="NetworkLearning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,7 +136,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -257,7 +182,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18293000" />
+    <option name="totallyTimeSpent" value="18758000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -269,27 +194,38 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="23" width="1403" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25436047" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32938075" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.5217391" />
-      <window_info anchor="bottom" id="CMake" order="7" weight="0.32806325" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50145346" side_tool="true" weight="0.5612648" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24769993" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32806325" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.1840796" />
+      <window_info anchor="bottom" id="CMake" order="7" sideWeight="0.4985465" weight="0.4967062" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50145346" side_tool="true" weight="0.4967062" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329602" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985465" visible="true" weight="0.4402985" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985465" weight="0.39657444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.5349144" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5019763" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25436047" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32938075" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.32806325" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5349144" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329602" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5019763" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985465" weight="0.39657444" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50145346" side_tool="true" weight="0.5612648" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.5217391" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,6 +240,131 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CppFolder/NetworkLearning/MemberAccessOperator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CppFolder/NetworkLearning/MemberAccessOperator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="e#79#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/string">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80270">
+          <caret line="3490" column="43" selection-start-line="3490" selection-start-column="43" selection-end-line="3490" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2/Chapter2Exer2_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="e#79#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2/Chapter2_5.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/gcc@6/6.4.0_2/include/c++/6.4.0/bits/move.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="178" column="4" selection-start-line="178" selection-start-column="4" selection-end-line="178" selection-end-column="4" />
+          <folding>
+            <element signature="e#5488#5521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CppFolder/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="3" selection-start-line="12" selection-start-column="2" selection-end-line="25" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2/Chapter2_7.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2/Chapter2Exer2_5.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="69" selection-start-line="49" selection-end-line="69" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/gcc@6/6.4.0_2/include/c++/6.4.0/bits/stl_algobase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1449">
+          <caret line="128" column="22" selection-start-line="128" selection-start-column="6" selection-end-line="128" selection-end-column="22" />
+          <folding>
+            <element signature="e#4185#4241#0" expanded="true" />
+            <element signature="e#7551#7565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2/Chapter2Exer2_6.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="33" selection-start-line="19" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+            <element signature="e#297#310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CppFolder/Chapter3/Chapter3_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="28" column="3" selection-start-line="24" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
+          <folding>
+            <element signature="e#101#118#0" expanded="true" />
+            <element signature="e#152#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CppFolder/NetworkLearning/Pointer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CppFolder/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -478,23 +539,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2_5.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="65" column="1" selection-start-line="5" selection-end-line="65" selection-end-column="1" />
-          <folding>
-            <element signature="e#79#98#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2_5.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2_5.cpp" />
+    <entry file="file://$PROJECT_DIR$/CppFolder/Chapter2_5.h" />
     <entry file="file://$PROJECT_DIR$/CppFolder/Line.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
